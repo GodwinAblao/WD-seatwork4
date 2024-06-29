@@ -1,0 +1,38 @@
+/* header.css */
+
+.header {
+    display: flex;
+    justify-content: center;
+    padding: 10px 0;
+}
+
+.header .btn {
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    margin: 0 10px;
+    transition: background-color 0.5s ease, transform 0.5s ease;
+    position: relative; /* Position relative for pseudo-element */
+}
+
+.header .btn::before {
+    content: '';
+    position: absolute;
+    bottom: -3px;
+    left: 50%;
+    width: 0%;
+    height: 3px;
+    background-color: transparent; /* Initially transparent */
+    transition: all 0.5s ease; /* Transition for underline effect */
+}
+
+.header .btn:hover, .header .btn.active {
+    background-color: #555;
+    transform: scale(1.1);
+}
+
+.header .btn:hover::before {
+    left: 0;
+    width: 100%;
+    background-color: #ff0000; /* Color for underline effect */
+}
