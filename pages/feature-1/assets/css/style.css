@@ -6,3 +6,162 @@ body {
     font-family: Arial, sans-serif;
     box-sizing: border-box;
 }
+
+/* First Section Styles */
+.first-section {
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    background: url('../img/GTA10.jpg') no-repeat center center/cover;
+    display: flex;
+    align-items: flex-end; /* Align content to the bottom */
+}
+
+.description {
+    background-color: transparent;
+    font-size: larger;
+    color: white;
+    padding: 20px;
+    margin: 20px;
+}
+
+/* Second Section Styles */
+.second-section {
+    background: url('../img/GTA3.jpg') no-repeat center center/cover;
+    padding: 60px 0;
+    color: white;
+}
+
+.second-section .container {
+    width: 80%;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.second-section h2 {
+    font-size: 2.5rem;
+    margin-bottom: 40px;
+}
+
+.second-section .features {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+}
+
+.second-section .feature-item {
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
+    border-radius: 8px;
+    overflow: hidden;
+    max-width: 300px;
+    text-align: left;
+}
+
+.second-section .feature-item img {
+    width: 100%;
+    height: auto;
+}
+
+.second-section .feature-item h3 {
+    font-size: 1.5rem;
+    margin: 10px;
+}
+
+.second-section .feature-item p {
+    font-size: 1rem;
+    margin: 10px;
+    padding: 0 10px 10px;
+}
+
+/* Third Section Styles */
+.third-section {
+    display: grid;
+    grid-template-columns: 1fr 300px 1fr;
+    grid-template-areas: 
+        "left-description center-overlay right-description";
+    background: url('../img/GTA7.jpg') no-repeat center center/cover;
+    padding: 60px 0;
+    color: white;
+    align-items: center;
+    text-align: center;
+}
+
+.third-section .left-description {
+    grid-area: left-description;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
+    border-radius: 8px;
+}
+
+.third-section .center-overlay {
+    grid-area: center-overlay;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.third-section .center-overlay img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+.third-section .right-description {
+    grid-area: right-description;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
+    border-radius: 8px;
+}
+
+.third-section h2 {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+}
+
+.third-section p {
+    font-size: 1rem;
+}
+
+.logo{
+    height: -50%;
+    width: -10;
+}
+
+/* Fourth Section Styles */
+.fourth-section {
+    background: url('../img/GTA11.jpg') no-repeat center center/cover;
+    padding: 60px 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card {
+    background-color: rgba(0, 0, 0, 0.6); /* Semi-transparent background */
+    color: white;
+    padding: 40px;
+    max-width: 400px;
+    text-align: center;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card h2 {
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+.card p {
+    font-size: 1rem;
+    line-height: 1.5;
+}
+
+.card:hover {
+    transform: translateY(-10px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4);
+}
+
+
+
