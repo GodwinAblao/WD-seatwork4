@@ -22,8 +22,8 @@
     left: 50%;
     width: 0%;
     height: 3px;
-    background-color: transparent; /* Initially transparent */
-    transition: all 0.5s ease; /* Transition for underline effect */
+    background-color: #0066cc;
+    transition: all 0.5s ease;
 }
 
 .header .btn:hover, .header .btn.active {
