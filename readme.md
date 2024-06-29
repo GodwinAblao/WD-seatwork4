@@ -111,7 +111,6 @@ WD-ProjectName
 
 ## Resources
 | Title | Purpose | Link |
-
 | Font Awesome | Get some ideas | [Link](https://fontawesome.com/) |
 | Google Font | Get some ideas | [Link](https://fonts.google.com/) |
 | Bootstrap | Get some ideas | [Link](https://getbootstrap.com/) |
