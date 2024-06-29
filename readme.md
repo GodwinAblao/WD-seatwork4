@@ -8,7 +8,7 @@
 
   </a>
 
-  <h3 align="center">Feature Display</h3>
+  <h3 align="center">Seatwork4: Feature Display</h3>
 </div>
 
 <div align="center">
