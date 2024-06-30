@@ -65,6 +65,7 @@ Guiding Question:
 <!-- The following are just sample -->
 - MultiPage Website
 - Hover Effect
+- Landing pages
 - Feature pages
 - 3 Different Features/Contents
 
