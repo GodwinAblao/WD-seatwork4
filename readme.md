@@ -6,7 +6,6 @@
 <div align="center">
   <a href="https://github.com/GodwinAblao">
 
-    <img src="" alt="" width="" height="">
   </a>
 
   <h3 align="center">Feature Display</h3>
@@ -59,8 +58,7 @@
 Various HTML and CSS feature page layouts and designs
 
 Guiding Question:
-- What is the project and purpose
-- As part of the project, a variety of HTML and CSS page layouts and designs will be created to highlight different web design capabilities and strategies. The goal is to present several design techniques for content organization, using backdrop graphics, and dividing text into eye-catching sections. For web designers, this can be a source of inspiration and knowledge.
+- What is the project and purpose - As part of the project, a variety of HTML and CSS page layouts and designs will be created to highlight different web design capabilities and strategies. The goal is to present several design techniques for content organization, using backdrop graphics, and dividing text into eye-catching sections. For web designers, this can be a source of inspiration and knowledge.
 
 ### Key Components
 
