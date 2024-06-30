@@ -4,30 +4,29 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
-  <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
+  <a href="https://github.com/GodwinAblao">
+
+    <img src="" alt="" width="" height="">
   </a>
-<!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+
+  <h3 align="center">Feature Display</h3>
 </div>
-<!-- TODO: Make a short description -->
+
 <div align="center">
-  Short Description. (Optional)
+  Various HTML and CSS feature page layouts and designs
 </div>
 
 <br />
 
-<!-- TODO: Change the zyx-0314 into your github username  -->
-<!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+
+![](https://visit-counter.vercel.app/counter.png?page=GodwinAblao/WD-seatwork4)
 
 ---
 
 <br />
 <br />
 
-<!-- TODO: If you want to add more layers for your readme -->
+
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -55,28 +54,28 @@
 
 ## Overview
 
-<!-- TODO: To be changed -->
+
 <!-- The following are just sample -->
-Description of the project in details.
+Various HTML and CSS feature page layouts and designs
 
 Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+- What is the project and purpose
+- As part of the project, a variety of HTML and CSS page layouts and designs will be created to highlight different web design capabilities and strategies. The goal is to present several design techniques for content organization, using backdrop graphics, and dividing text into eye-catching sections. For web designers, this can be a source of inspiration and knowledge.
 
 ### Key Components
-<!-- TODO: List of Key Components -->
+
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- MultiPage Website
+- Hover Effect
+- Feature pages
+- 3 Different Features/Contents
+
 
 ### Technology
-<!-- TODO: List of Technology Used -->
+
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+
 
 ## Rules, Practices and Principles
 1. Always use `WD-` in the front of the Title of the Project for the Subject followed by your custom naming.
@@ -114,7 +113,18 @@ WD-ProjectName
 
 ## Resources
 
-<!-- TODO: Add References -->
+
 | Title | Purpose | Link |
-|-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+|Font Awesome|Get some ideas|https://fontawesome.com/|
+|Google Font|Get some ideas|https://fonts.google.com/|
+|Bootstrap|Get some ideas|https://getbootstrap.com/|
+|Material UI|Get some ideas|https://mui.com/material-ui/|
+|TailWind |Get some ideas|https://tailwindcss.com/|
+|Rockstar Games|Get some ideas|https://www.rockstargames.com/gta-online|
+|Gta online|Get some ideas|https://www.google.com/search?sca_esv=e92a91eafa47dfb8&rlz=1C1CHZN_enPH1076PH1076&sxsrf=ADLYWIJ25T_ZsIAabGK5TlKmaETi3RMjcA:1719660678580&q=gta+online&udm=2&fbs=AEQNm0DPvcmG_nCbmwtBO9j6YBzM68ZanC7g01Skprhw5JoufUv28nkH7BlZuPSVPZEeFf4zEsryEwMB77hXASo0GX6kc7f0ImceuC_sjza6Vb-covmbyhpamE8nFdDBXPVPzJTQU7MBXAFnfR130LMIBhqrIsoOl8ieFfXS3GWSgLtJxTcf267Wv5rKKgyx7fFUGn8sBvvl1n7GOk6qRIkbzjH9GOGG3A&sa=X&ved=2ahUKEwj56oWf24CHAxX8jK8BHXBhAEwQtKgLegQIEBAB&biw=958&bih=952&dpr=1|
+|Call of Duty Warzone|Get some ideas|https://www.callofduty.com/warzone|
+|Cod warzone|Get some ideas|https://www.google.com/search?sca_esv=e92a91eafa47dfb8&rlz=1C1CHZN_enPH1076PH1076&sxsrf=ADLYWIImkc7YBwj9iV4TYw1apLjtmf-u3A:1719660789601&q=cod+warzone&udm=2&fbs=AEQNm0B8dVdIWR07uWWlg1TdKnNtA1cwMugrQsIKmAo5AEZHWRFlUeGLxYlhagMfUatSvHu3MSamP9Qd2SfjyZyVIdPFrZFmdorP0BQX-5QUvERZ7CgntLysKxPYR85LNkkQ-ODVQlzCBgHDwYGwBEtb1wyzIiqYOAGOFOhRLG73H-MUdJY1ZFjTgiSsk2gQgTHDHU_Mnn5ewYy4nGfZAENFgsXyYdMtYQ&sa=X&sqi=2&ved=2ahUKEwjZ-P3T24CHAxWdzTQHHS9yBa4QtKgLegQIDhAB&biw=958&bih=952&dpr=1|
+|W3schools|Get some idea|https://www.w3schools.com/|
+|feature display html css|Get some idea|https://www.youtube.com/results?search_query=feature+display+html+css|
+|feature display html css|Get some idea|https://www.google.com/search?q=feature+display+html+css&rlz=1C1CHZN_enPH1076PH1076&oq=feature+display+html+css&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIGCAEQRRg8MgYIAhBFGDzSAQc5OTFqMGo3qAIAsAIA&sourceid=chrome&ie=UTF-8|
+
